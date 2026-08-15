@@ -1,0 +1,123 @@
+table,variable,name,missing,label
+T2_CORE,ag_T2,1,,2<=age<6
+T2_CORE,ag_T2,2,,6<=age<10
+T2_CORE,ag_T2,3,,10<=age<12
+T2_CORE,ag_T2,4,,12<=age<20
+T2_CORE,ag_T2,5,,age>=20
+T2_CORE,agekat__T2,.,,Missing
+T2_CORE,agekat__T2,4,,2-<4 years
+T2_CORE,agekat__T2,5,,4-<5 years
+T2_CORE,agekat__T2,6,,5-<6 years
+T2_CORE,agekat__T2,7,,6-<7 years
+T2_CORE,agekat__T2,8,,7-<8 years
+T2_CORE,agekat__T2,9,,8-<10 years
+T2_CORE,agekat_T2,.,,Missing
+T2_CORE,agekat_T2,1,,<1 years
+T2_CORE,agekat_T2,2,,1-<2 years
+T2_CORE,agekat_T2,3,,2-<3 years
+T2_CORE,agekat_T2,4,,3-<4 years
+T2_CORE,agekat_T2,5,,4-<5 years
+T2_CORE,agekat_T2,6,,5-<6 years
+T2_CORE,agekat_T2,7,,6-<7 years
+T2_CORE,agekat_T2,8,,7-<8 years
+T2_CORE,agekat_T2,9,,8-<9 years
+T2_CORE,agekat_T2,10,,9+   years
+T2_CORE,att_bmi_cat_WHO_T2,0,,Normal weight
+T2_CORE,att_bmi_cat_WHO_T2,1,,risk of overweight
+T2_CORE,att_bmi_cat_WHO_T2,2,,overweight
+T2_CORE,att_bmi_cat_WHO_T2,3,,obese
+T2_CORE,ATT_FV_1_T2,.,,Missing
+T2_CORE,ATT_FV_1_week_T2,.,,Missing
+T2_CORE,AVM_1_week_T2,.,,Missing
+T2_CORE,AVM_1_weekday_T2,.,,Missing
+T2_CORE,AVM_1_weekendday_T2,.,,Missing
+T2_CORE,bmi_cat_CDC_T2,.,,missing
+T2_CORE,bmi_cat_CDC_T2,-3,,thinness grade 3: BMI < 16
+T2_CORE,bmi_cat_CDC_T2,-2,,thinness grade 2: 16 ? BMI < 17
+T2_CORE,bmi_cat_CDC_T2,-1,,thinness grade 1: 17 ? BMI < 18.5
+T2_CORE,bmi_cat_CDC_T2,0,,normal weight: 18.5 ? BMI < 25
+T2_CORE,bmi_cat_CDC_T2,1,,overweight: 25 ? BMI < 30
+T2_CORE,bmi_cat_CDC_T2,2,,obese: 30 ? BMI
+T2_CORE,bmi_cat_COLE_12_T2,.,,missing
+T2_CORE,bmi_cat_COLE_12_T2,-3,,thinness grade 3: BMI < 16
+T2_CORE,bmi_cat_COLE_12_T2,-2,,thinness grade 2: 16 ? BMI < 17
+T2_CORE,bmi_cat_COLE_12_T2,-1,,thinness grade 1: 17 ? BMI < 18.5
+T2_CORE,bmi_cat_COLE_12_T2,0,,normal weight: 18.5 ? BMI < 25
+T2_CORE,bmi_cat_COLE_12_T2,1,,overweight: 25 ? BMI < 30
+T2_CORE,bmi_cat_COLE_12_T2,2,,obese: 30 ? BMI
+T2_CORE,bmi_cat_COLE_T2,.,,missing
+T2_CORE,bmi_cat_COLE_T2,-3,,thinness grade 3: BMI < 16
+T2_CORE,bmi_cat_COLE_T2,-2,,thinness grade 2: 16 ? BMI < 17
+T2_CORE,bmi_cat_COLE_T2,-1,,thinness grade 1: 17 ? BMI < 18.5
+T2_CORE,bmi_cat_COLE_T2,0,,normal weight: 18.5 ? BMI < 25
+T2_CORE,bmi_cat_COLE_T2,1,,overweight: 25 ? BMI < 30
+T2_CORE,bmi_cat_COLE_T2,2,,obese: 30 ? BMI
+T2_CORE,bmi_cat_WHO_5years_T2,.,,missing
+T2_CORE,bmi_cat_WHO_5years_T2,-3,,thinness grade 3: BMI < 16
+T2_CORE,bmi_cat_WHO_5years_T2,-2,,thinness grade 2: 16 ? BMI < 17
+T2_CORE,bmi_cat_WHO_5years_T2,-1,,thinness grade 1: 17 ? BMI < 18.5
+T2_CORE,bmi_cat_WHO_5years_T2,0,,normal weight: 18.5 ? BMI < 25
+T2_CORE,bmi_cat_WHO_5years_T2,1,,overweight: 25 ? BMI < 30
+T2_CORE,bmi_cat_WHO_5years_T2,2,,obese: 30 ? BMI
+T2_CORE,bmi_cat2_CDC_T2,.,,missing
+T2_CORE,bmi_cat2_CDC_T2,-2,,underweight: cdf ? 0.05
+T2_CORE,bmi_cat2_CDC_T2,-1,,risk for underweight: 0.05 < cdf ?0.15
+T2_CORE,bmi_cat2_CDC_T2,0,,normal weight: 0.15 < cdf <0.85
+T2_CORE,bmi_cat2_CDC_T2,1,,risk for overweight: 0.85 ? cdf < 0.95
+T2_CORE,bmi_cat2_CDC_T2,2,,overweight: 0.95 ? cdf
+T2_CORE,CC_Insulin_T2,.,,Not included
+T2_CORE,CC_Insulin_T2,0,,Control
+T2_CORE,CC_Insulin_T2,1,,Case
+T2_CORE,CC_Obesity_T2,.,,Not included
+T2_CORE,CC_Obesity_T2,0,,Control
+T2_CORE,CC_Obesity_T2,1,,Case
+T2_CORE,CC_Stiffness_T2,.,,Not included
+T2_CORE,CC_Stiffness_T2,0,,Control
+T2_CORE,CC_Stiffness_T2,1,,Case
+T2_CORE,contr_interv_T2,.,,Missing
+T2_CORE,contr_interv_T2,1,,Intervention region
+T2_CORE,contr_interv_T2,2,,Control region
+T2_CORE,country_T2,1,,ITA
+T2_CORE,country_T2,2,,EST
+T2_CORE,country_T2,3,,CYP
+T2_CORE,country_T2,4,,BEL
+T2_CORE,country_T2,5,,POL
+T2_CORE,country_T2,6,,SWE
+T2_CORE,country_T2,7,,GER
+T2_CORE,country_T2,8,,HUN
+T2_CORE,country_T2,9,,ESP
+T2_CORE,country_T2,11,,ITA
+T2_CORE,country_T2,12,,EST
+T2_CORE,country_T2,13,,CYP
+T2_CORE,country_T2,14,,BEL
+T2_CORE,country_T2,15,,POL
+T2_CORE,country_T2,16,,SWE
+T2_CORE,country_T2,17,,GER
+T2_CORE,country_T2,18,,HUN
+T2_CORE,country_T2,19,,ESP
+T2_CORE,ex_in_T2,.,,No or missing
+T2_CORE,ex_in_T2,1,,Yes
+T2_CORE,FV_2_T2,.,,Missing
+T2_CORE,gwas_in_T2,.,,No or missing
+T2_CORE,gwas_in_T2,1,,Yes
+T2_CORE,Height_cat_T2,.,,missing
+T2_CORE,Height_cat_T2,0,,normal height: cdf < 0.90
+T2_CORE,Height_cat_T2,1,,large: 0.90 ? cdf < 0.95
+T2_CORE,Height_cat_T2,2,,extra large: 0.95 ? cdf
+T2_CORE,LEIS_ACTIV_T2,.,,Missing
+T2_CORE,PHYS_ACTIV_T2,.,,Missing
+T2_CORE,pq_in_T2,.,,No or missing
+T2_CORE,pq_in_T2,1,,Yes
+T2_CORE,sex_child_T2,.,,Missing
+T2_CORE,sex_child_T2,0,,Missing sex
+T2_CORE,sex_child_T2,1,,Male
+T2_CORE,sex_child_T2,2,,Female
+T2_CORE,sex_child_T2,3,,Both
+T2_CORE,sex_child_T2,9,,not specified
+T2_CORE,waist_cat_CDC_T2,-3,,cdf <= 0.10
+T2_CORE,waist_cat_CDC_T2,-2,,0.10 < cdf <= 0.15
+T2_CORE,waist_cat_CDC_T2,-1,,0.15 < cdf <= 0.25
+T2_CORE,waist_cat_CDC_T2,0,,0.25 < cdf <= 0.75
+T2_CORE,waist_cat_CDC_T2,1,,0.75 <= cdf <= 0.85
+T2_CORE,waist_cat_CDC_T2,2,,0.85 <= cdf <= 0.90
+T2_CORE,waist_cat_CDC_T2,3,,0.90 <= cdf
